@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?&font=Audiowide&size=30&duration=2750&lines=Hi+there+;I+am+Serhat+Ka%C3%A7maz;I+am+a+software+developer;Currently+working+on;.Net,+Mobile,+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&font=Audiowide&size=30&duration=2750&lines=Hi+there+;I+am+Serhat+Ka%C3%A7maz;I+am+a+software+developer;Currently+working+on;.C#,+Android,+Python)](https://git.io/typing-svg)
 
 
 [![Years Badge](https://badges.pufler.dev/years/Serhatkacmaz)](https://badges.pufler.dev)
