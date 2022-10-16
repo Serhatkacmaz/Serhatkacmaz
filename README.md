@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serhat Kaçmaz</h1>
-<h3 align="center">I am a full software developer</h3>
+<h3 align="center">I am a software developer</h3>
 
 - 📫 How to reach me **serhatkacmaz3@gmail.com**
 
