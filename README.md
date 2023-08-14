@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Serhat Kaçmaz</h1>
 <h3 align="center">Information Systems Engineer</h3>
 
-- 📫 How to reach me **serhatkacmaz3@gmail.com**
+- My programing adventure started in the last quarter of 2019. Since then, I've been developing projects and improving myself. I graduated from Kocaeli University Information Systems Engineering as the first in the department and faculty in 2022-2023. I started to work in my fifth semester at university. I am trying to improve myself by following the innovations in the sector and staying up to date.
 
+- 📫 How to reach me **serhatkacmaz3@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/serhat-kacmaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/serhat-kacmaz/" height="30" width="40" /></a>
